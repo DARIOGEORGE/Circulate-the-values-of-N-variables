@@ -31,7 +31,8 @@ def circulate():
 ```
 ## Output:
 ### Circulate-the-values-of-N-variables -output
-![Circulate-the-values-of-N-variables-output](./images/output(circulate).png)
+![Screenshot_20230123_113824](https://user-images.githubusercontent.com/118704873/214117062-18585427-d963-4f4e-8fb4-8a67ec1ea77c.png)
+
 
 ## Result:
 Thus the program is developed for circulating the values of N variables 
